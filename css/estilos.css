@@ -1,60 +1,44 @@
 body{
     
-    background-image: url("../img/Fondo01.jpg");
-    background-size: 100%;
-    background-color: black;
-    
+  background-image: url("../img/Fondo01.jpg");
+  background-size: 100%;
+  background-color: black;
+  
 }
 .navbar{
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.6);
-    height: 50px;
-    z-index: 9999;
-    position: fixed;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 50px;
+  z-index: 9999;
+  position: fixed;
 }
 h3{
-  width: 100%;
-  color: white;
-  text-align: center;
-  font-family: emoji;
+width: 100%;
+color: white;
+text-align: center;
+font-family: emoji;
 }
 .container{
-  width: 100%;
-  padding-top: 200px;
+width: 100%;
+padding-top: 200px;
 }
 h1{
-  text-align:center;
-  color: white;
-  font-family:fantasy;
-  font-size: 5em;
+text-align:center;
+color: white;
+font-family:fantasy;
+font-size: 5em;
 }
 .row{
-  margin-top: 90px;
-  width: 90%;
-  margin-left: auto;
-  margin-right: auto;
+margin-top: 90px;
+width: 90%;
+margin-left: auto;
+margin-right: auto;
 }
-
-pre {
-  background: #262720;
-  -webkit-border-radius: 10px;
+.editor{
+  background-color: #262720;;
+  color: white;
   border-radius: 5px;
-  font-family: Consolas,sans-serif;
-  padding: 2px;
+  font-family: Consolas, sans-serif;
   font-size: .95em;
-  color: #fff;
-  overflow: auto;
-  width: 100%;
-}
-.kw1, .me1 {
-  color: #00d6ff;
-}
-pre .sy0 {
-  color: #f92772;
-}
-pre .br0 {
-  color: #aaa;
-}
-pre .st0 {
-  color: #fff8ab;
+  padding: 10px;
 }
