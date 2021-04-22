@@ -35,7 +35,7 @@ margin-left: auto;
 margin-right: auto;
 }
 .editor{
-  background-color: #131819;;
+  background-color: #131819;
   color: white;
   border-radius: 5px;
   font-family: Consolas, sans-serif;
@@ -44,4 +44,28 @@ margin-right: auto;
 }
 .etiqueta{
   color: #497ed4;
+}
+.x1{
+  color: #86b6ec;
+}
+.x2{
+  color: #9c5b5b;
+}
+.x3{
+  color: #e4e4e49;
+}
+.x4{
+  color: #7ac1bf;
+}
+.bootstrap{
+  color: #3cc53c;
+  font-size: 0.77em;
+}
+footer{
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  width: 100%;
+  bottom: 0%;
 }
